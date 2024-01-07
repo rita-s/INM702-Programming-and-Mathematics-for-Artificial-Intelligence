@@ -69,3 +69,6 @@ Initialize the model and move it to the appropriate device (CPU/GPU).
 Define the optimizer and learning rate.
 Train the model using the fit function.
 Evaluate the model's performance on the validation dataset.
+
+## Contributing 🤝
+Contributions to the project are welcome! Please follow the standard Git workflow for submitting improvements or bug fixes.
