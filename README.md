@@ -15,7 +15,8 @@ Before running the code, ensure you have the following installed:
 
 ## Code Structure 🏗️
 mnist_neural_network.py: The main script containing the entire neural network implementation and training procedures.
-Key Functions 🗝️
+
+## Key Functions 🗝️
 load_mnist_and_print(): Loads and prints a sample of the MNIST dataset.
 plot_image(): Plots a single image from the dataset.
 plot_images(): Plots multiple images from the dataset.
