@@ -1,4 +1,4 @@
-# README for MNIST Neural Network Project
+# MNIST Neural Network 
 
 ## Overview 📖
 This README provides detailed instructions on how to set up and reproduce the code for the MNIST Neural Network Project.
