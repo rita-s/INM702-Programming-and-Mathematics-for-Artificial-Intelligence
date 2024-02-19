@@ -38,37 +38,3 @@ Visualise the results using plot_training_history() and plot_confusion_matrix().
 Contributions to the project are welcome! Please follow the standard Git workflow for submitting improvements or bug fixes.
 
 
----------
-
-# Implementing deep learning networks using PyTorch
-
-## Prerequisites 🛠️
-Ensure you have the following installed before running the code:
-- Python 3.6 or later
-- PyTorch
-- torchvision
-- PIL (Python Imaging Library)
-- Matplotlib
-
-## Running the Code 🚀
-Navigate to the project directory and execute the Python script:
-
-## Code Structure 🏗️
-image_classification.py: Contains the full implementation of the image classification model, including data loading, preprocessing, model definition, training, and evaluation.
-
-## Key Components 🗝️
-Data loading and preprocessing for CIFAR10 and custom image datasets.
-Neural network model class ImageClassification defined using PyTorch.
-Functions for training (fit) and evaluating (evaluate) the model.
-Utility function show_batch to visualize a batch of images.
-
-## Example Usage 📚
-Load and preprocess the CIFAR10 and custom image datasets.
-Define the neural network model.
-Initialize the model and move it to the appropriate device (CPU/GPU).
-Define the optimizer and learning rate.
-Train the model using the fit function.
-Evaluate the model's performance on the validation dataset.
-
-## Contributing 🤝
-Contributions to the project are welcome! Please follow the standard Git workflow for submitting improvements or bug fixes.
